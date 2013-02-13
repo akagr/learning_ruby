@@ -11,6 +11,7 @@ def fib(n)
 	return 1 if n==1 or n==0
 	while n>1 do
 		c=a+b
+		c=(a+b)
 		a=b
 		b=c
 		n-=1
@@ -18,6 +19,7 @@ def fib(n)
 	c
 end
 
+1000000007
 gets.to_i.times do
 	
 	steps, guess = scanf("%d%d")
@@ -25,6 +27,7 @@ gets.to_i.times do
 		b=fib steps
 	else
 		b=fib_fast(steps+1)
+		b=fib_fast(steps+1)%1000000007
 	end
 	#if Mem[steps]==0
 	#	b=Mem[steps]=find(steps)

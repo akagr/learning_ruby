@@ -1,3 +1,4 @@
+# time limit exceeded
 gets.to_i.times do
 	a=gets.chomp.split
 	num=gets.chomp.split

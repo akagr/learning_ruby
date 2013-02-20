@@ -1,4 +1,3 @@
-
 n, s = gets.chomp.split(/\s/)
 row= Hash.new("000")
 col= Hash.new("000")

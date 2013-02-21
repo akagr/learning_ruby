@@ -4,334 +4,94 @@
 		"selected_items":
 		[
 			[
-				"fi",
-				"fib_fast"
+				"al",
+				"alph"
 			],
 			[
-				"st",
-				"steps"
+				"max",
+				"maxi"
 			],
 			[
-				"sca",
-				"scanf"
+				"ro",
+				"row-1"
 			],
 			[
-				"x",
-				"xpa	xpath(..) { .. }"
+				"no",
+				"normal"
 			],
 			[
-				"hav",
-				"have_selector"
+				"font",
+				"font-weight"
 			],
 			[
-				"desc",
-				"desc	describe (Controller)"
+				"co",
+				"count"
 			],
 			[
-				"pass",
-				"password_confirmation"
+				"eac",
+				"each"
 			],
 			[
-				"pa",
-				"password_confirmation"
+				"ra",
+				"rack"
 			],
 			[
-				"shou",
-				"should"
+				"sort",
+				"sort_by  (function)"
 			],
 			[
-				"res",
-				"respond_to"
-			],
-			[
-				"be",
-				"be_valid"
-			],
-			[
-				"des",
-				"dest	describe (type)"
-			],
-			[
-				"na",
-				"name"
-			],
-			[
-				"rend",
-				"render_partial  (function)"
-			],
-			[
-				"su",
-				"support"
-			],
-			[
-				"ca",
-				"capybara"
-			],
-			[
-				"con",
-				"content"
-			],
-			[
-				"gr",
-				"group"
-			],
-			[
-				"rs",
-				"resource"
-			],
-			[
-				"ti",
-				"title"
-			],
-			[
-				"post",
-				"posts"
-			],
-			[
-				"pos",
-				"posts"
-			],
-			[
-				"for",
-				"form_for  (function)"
-			],
-			[
-				"h",
-				"h1	Tag"
-			],
-			[
-				"up",
-				"update"
-			],
-			[
-				"pr",
-				"price"
-			],
-			[
-				"u",
-				"ul	Tag"
-			],
-			[
-				"me",
-				"merge_sort"
-			],
-			[
-				"s",
-				"sequence"
-			],
-			[
-				"log",
-				"log2  (function)"
-			],
-			[
-				"t",
-				"tim	times { |n| .. }"
-			],
-			[
-				"di",
-				"divisor"
+				"fin",
+				"finish"
 			],
 			[
 				"si",
 				"size"
 			],
 			[
-				"dar",
-				"dark_score"
+				"sca",
+				"scanf"
 			],
 			[
-				"max",
-				"max_score"
-			],
-			[
-				"ano",
-				"another_way_to_write_class_methods"
-			],
-			[
-				"A",
-				"Akash"
-			],
-			[
-				"in",
-				"instance_level_wag"
-			],
-			[
-				"class",
-				"class_level_wag"
-			],
-			[
-				"fido",
-				"fidos_wag"
-			],
-			[
-				"Gro",
-				"GROWL"
-			],
-			[
-				"Ha",
-				"HAPPY"
-			],
-			[
-				"fid",
-				"Fido"
-			],
-			[
-				"Fi",
-				"Fido"
-			],
-			[
-				"file",
-				"file_name"
-			],
-			[
-				"mo",
-				"modified_in_a_block"
-			],
-			[
-				"tr",
-				"TriangleError"
-			],
-			[
-				"ra",
-				"raise"
-			],
-			[
-				"Tr",
-				"TriangleError"
-			],
-			[
-				"ex",
-				"exception_handled"
-			],
-			[
-				"S",
-				"StandardError"
-			],
-			[
-				"R",
-				"RuntimeError"
-			],
-			[
-				"sc",
-				"scalene"
-			],
-			[
-				"eq",
-				"equilateral"
-			],
-			[
-				"fal",
-				"false_stuff"
-			],
-			[
-				"fals",
-				"false_value"
-			],
-			[
-				"N",
-				"NoMethodError"
-			],
-			[
-				"p",
-				"private"
-			],
-			[
-				"ret",
-				"return_value"
-			],
-			[
-				"n",
-				"number"
-			],
-			[
-				"all",
-				"all_symbols"
-			],
-			[
-				"cats",
-				"catsAndDogs"
-			],
-			[
-				"true",
-				"true"
-			],
-			[
-				"m",
-				"method2  (function)"
-			],
-			[
-				"re",
-				"receiver"
-			],
-			[
-				"g",
-				"gets"
-			],
-			[
-				"puts",
-				"puts  (function)"
-			],
-			[
-				"la",
-				"lambda"
-			],
-			[
-				"l",
-				"lam	lambda { |args| .. }"
-			],
-			[
-				"a",
-				"a"
-			],
-			[
-				"my",
-				"mymethod"
-			],
-			[
-				"bo",
-				"body	Tag"
+				"ea",
+				"eai	each_index { |i| .. }"
 			],
 			[
 				"do",
-				"dow	downto(0) { |n| .. }"
+				"dob	Insert do |variable| … end"
+			],
+			[
+				"fi",
+				"finish"
 			]
 		]
 	},
 	"buffers":
 	[
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 43,
+				"line_ending": "Unix"
+			}
+		}
 	],
-	"build_system": "Packages/Ruby/Ruby.sublime-build",
+	"build_system": "",
 	"command_palette":
 	{
-		"height": 375.0,
+		"height": 240.0,
 		"selected_items":
 		[
 			[
-				"ind",
-				"Indentation: Reindent Lines"
+				"open",
+				"File: Open In Browser - Testing Server"
 			],
 			[
-				"inde",
-				"Indentation: Reindent Lines"
+				"col",
+				"Color picker"
 			],
 			[
-				"sscs",
-				"Set Syntax: CSS"
-			],
-			[
-				"mini",
-				"View: Toggle Minimap"
-			],
-			[
-				"key",
-				"Preferences: Key Bindings - Default"
-			],
-			[
-				"settin",
-				"Preferences: Settings - Default"
-			],
-			[
-				"in",
+				"insta",
 				"Package Control: Install Package"
 			],
 			[
@@ -339,15 +99,39 @@
 				"Package Control: Install Package"
 			],
 			[
-				"remo",
-				"Package Control: Remove Package"
+				"sett",
+				"Preferences: Settings - Default"
 			],
 			[
-				"insta",
-				"Package Control: Install Package"
+				"brow",
+				"Preferences: Browse Packages"
 			],
 			[
-				"rein",
+				"bro",
+				"Preferences: Browse Packages"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"sscs",
+				"Set Syntax: CSS"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"nd",
+				"Snippet: assert_no_difference"
+			],
+			[
+				"in",
 				"Indentation: Reindent Lines"
 			],
 			[
@@ -355,79 +139,15 @@
 				"SublimeCodeIntel: Reset"
 			],
 			[
-				"rem",
-				"Package Control: Remove Package"
-			],
-			[
-				"re",
-				"Package Control: Remove Package"
-			],
-			[
-				"upg",
-				"Package Control: Upgrade Package"
-			],
-			[
-				"add",
-				"Package Control: Add Repository"
-			],
-			[
-				"inst",
-				"Package Control: Install Package"
-			],
-			[
-				"install",
-				"Package Control: Install Package"
-			],
-			[
-				"fi",
-				"File: Duplicate"
-			],
-			[
-				"bui",
-				"Build: Build"
-			],
-			[
-				"rs",
-				"Set Syntax: RSpec"
-			],
-			[
-				"rsp",
-				"Set Syntax: RSpec"
-			],
-			[
-				"i",
+				"IND",
 				"Indentation: Reindent Lines"
-			],
-			[
-				"ssr",
-				"Set Syntax: Ruby"
-			],
-			[
-				"ss",
-				"Set Syntax: Ruby"
-			],
-			[
-				"Package Control: ",
-				"Package Control: Remove Package"
-			],
-			[
-				"",
-				"Package Control: Install Package"
-			],
-			[
-				"Package Control: ins",
-				"Package Control: Install Package"
-			],
-			[
-				"ssh",
-				"Set Syntax: HTML"
 			]
 		],
-		"width": 522.0
+		"width": 588.0
 	},
 	"console":
 	{
-		"height": 127.0
+		"height": 139.0
 	},
 	"distraction_free":
 	{
@@ -440,145 +160,73 @@
 	},
 	"file_history":
 	[
-		"/C/Ruby/magic_board.rb",
-		"/C/Ruby/climbing_stairs2.rb",
-		"/D/sample_app1-master/config/routes.rb",
-		"/D/sample_app1-master/.rspec",
-		"/D/sample_app1-master/app/views/layouts/application.html.erb",
-		"/D/sample_app1-master/spec/controllers/pages_controller_spec.rb",
-		"/D/sample_app1-master/app/views/pages/home.html.erb",
-		"/D/Programs/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/scanf.rb",
-		"/C/Ruby/climbing_stairs.rb",
-		"/D/Sites/sample_app/spec/requests/authentication_pages_spec.rb",
-		"/C/Ruby/buy1get1.rb",
-		"/D/Sites/sample_app/app/controllers/sessions_controller.rb",
-		"/D/Sites/sample_app/config/database.yml",
-		"/D/Sites/sample_app/config/routes.rb",
-		"/D/Sites/sample_app/app/views/sessions/new.html.erb",
-		"/D/Sites/ex/config/database.yml",
-		"/D/Sites/sample_app/Gemfile",
-		"/D/Sites/sample_app/.gitignore",
-		"/D/Sites/example/config/database.yml",
-		"/D/Sites/sample_app/app/helpers/users_helper.rb",
-		"/D/Sites/sample_app/app/assets/stylesheets/custom.css.scss",
-		"/D/Programs/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets/bootstrap/_scaffolding.scss",
-		"/D/Programs/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets/bootstrap/_hero-unit.scss",
-		"/D/Programs/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets/bootstrap/_layouts.scss",
-		"/D/Programs/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets/bootstrap/_grid.scss",
-		"/D/Programs/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets/bootstrap/_code.scss",
-		"/D/Programs/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets/bootstrap/_accordion.scss",
-		"/D/Programs/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets/bootstrap/responsive.scss",
-		"/D/Programs/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets/bootstrap.scss",
-		"/D/Sites/sample_app/app/views/layouts/_header.html.erb",
-		"/D/Programs/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets/bootstrap/_forms.scss",
-		"/D/Programs/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets/bootstrap/_breadcrumbs.scss",
-		"/D/Sites/sample_app/app/controllers/users_controller.rb",
-		"/D/Programs/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets/bootstrap/_buttons.scss",
-		"/D/Programs/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets/bootstrap/_variables.scss",
-		"/D/Sites/sample_app/app/views/static_pages/home.html.erb",
-		"/D/Programs/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets/bootstrap/_utilities.scss",
-		"/D/Programs/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets/bootstrap/bootstrap.scss",
-		"/D/Sites/sample_app/app/views/users/show.html.erb",
-		"/D/Sites/sample_app/app/views/shared/_error_messages.html.erb",
-		"/D/Sites/sample_app/spec/features/user_pages_spec.rb",
-		"/D/Sites/sample_app/spec/factories.rb",
-		"/D/Sites/sample_app/app/views/users/new.html.erb",
-		"/D/Sites/sample_app/app/assets/stylesheets/application.css",
-		"/D/Sites/sample_app/app/views/layouts/application.html.erb",
-		"/D/Sites/sample_app/config/environments/production.rb",
-		"/D/Sites/sample_app/config/environments/test.rb",
-		"/D/Sites/sample_app/spec/models/user_spec.rb",
-		"/D/Sites/sample_app/spec/helpers/application_helper_spec.rb",
-		"/D/Sites/sample_app/app/models/user.rb",
-		"/C/Users/Akash/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
-		"/C/Users/Akash/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
-		"/C/Users/Akash/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
-		"/D/Sites/sample_app/db/migrate/20130130130040_add_index_to_users_email.rb",
-		"/D/Programs/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/spin-0.5.3/bin/spin",
-		"/D/Sites/sample_app/Guardfile",
-		"/C/ansicon-master/ansicon.c",
-		"/D/Sites/sample_app/spec/support/utilities.rb",
-		"/D/Sites/sample_app/spec/features/static_pages_spec.rb",
-		"/D/Sites/sample_app/spec/spec_helper.rb",
-		"/D/Sites/sample_app/app/views/layouts/_footer.html.erb",
-		"/D/Sites/sample_app/app/views/static_pages/contact.html.erb",
-		"/D/Sites/sample_app/app/controllers/static_pages_controller.rb",
-		"/D/Programs/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets/bootstrap/_navbar.scss",
-		"/D/Programs/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets/bootstrap-responsive.scss",
-		"/D/Programs/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/bootstrap-sass-2.2.2.0/templates/project/manifest.rb",
-		"/D/Programs/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/bootstrap-sass-2.2.2.0/templates/project/styles.scss",
-		"/D/Programs/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/bootstrap-sass-2.2.2.0/lib/bootstrap-sass.rb",
-		"/D/Sites/sample_app/app/views/layouts/_shim.html.erb",
-		"/D/Sites/sample_app/Gemfile.lock",
-		"/D/Sites/sample_app/app/helpers/application_helper.rb",
-		"/D/Sites/sample_app/app/views/static_pages/about.html.erb",
-		"/D/Sites/sample_app/.rspec",
-		"/D/Sites/sample_app/app/views/static_pages/help.html.erb",
-		"/D/Sites/sample_app/spec/requests/static_pages_spec.rb",
-		"/D/Sites/sample_app/config.ru",
-		"/D/Sites/sample_app/config/application.rb",
-		"/D/Sites/sample_app/config/environments/development.rb",
-		"/D/Sites/sample_app/public/hello.html",
-		"/D/Sites/demo_app/app/models/user.rb",
-		"/D/Sites/demo_app/app/controllers/users_controller.rb",
-		"/D/Sites/demo_app/Gemfile",
-		"/D/Sites/first_app/Gemfile.lock",
-		"/D/Sites/blog/app/controllers/posts_controller.rb",
-		"/D/Sites/blog/app/views/posts/edit.html.erb",
-		"/D/Sites/blog/app/views/posts/index.html.erb",
-		"/D/Sites/blog/app/views/posts/show.html.erb",
-		"/D/Sites/blog/app/views/posts/new.html.erb",
-		"/D/Sites/blog/config/routes.rb",
-		"/D/Sites/blog/Gemfile",
-		"/D/Sites/blog/app/models/post.rb",
-		"/D/Sites/blog/app/views/home/index.html.erb",
-		"/D/Sites/blog/public/ex_index.html",
-		"/D/Sites/blog/public/index.html",
-		"/D/Sites/blog/a.txt",
-		"/D/Sites/blog/ - Copy.gitignore",
-		"/D/Sites/blog/Rakefile",
-		"/D/Sites/depot/app/views/products/index.html.erb",
-		"/D/Sites/depot/app/views/layouts/application.html.erb",
-		"/D/Sites/depot/db/seeds.rb",
-		"/D/Sites/depot/app/views/products/_form.html.erb",
-		"/D/Sites/depot/app/assets/stylesheets/products.css.scss",
-		"/D/Sites/depot/db/migrate/20130126141603_create_products.rb",
-		"/D/Sites/demo/config/routes.rb",
-		"/D/Sites/demo/app/controllers/say_controller.rb",
-		"/D/Sites/demo/app/views/say/goodbye.html.erb",
-		"/D/Sites/demo/app/views/say/filename.html.erb",
-		"/D/Sites/demo/public/422.html",
-		"/D/Programs/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/webrick/httpresponse.rb",
-		"/D/Sites/demo/app/views/say/hello.html.erb",
-		"/C/Ruby/turbo_sort.rb",
-		"/C/Ruby/odd.rb",
-		"/C/Ruby/small_fact.rb",
-		"/C/Ruby/enormous.rb",
-		"/C/Ruby/temp.rb",
-		"/C/Ruby/factorial.rb",
-		"/C/Ruby/atm.rb",
-		"/C/Ruby/life_universe.rb",
-		"/C/Ruby/defacing.rb",
-		"/D/Books/koans/about_proxy_object_project.rb",
-		"/C/Ruby/double.rb",
-		"/C/Ruby/temp",
-		"/C/Ruby/demo",
-		"/D/Books/koans/about_message_passing.rb",
-		"/C/Ruby/demo.rb",
-		"/D/Books/koans/about_class_methods.rb",
-		"/D/Books/koans/about_control_statements.rb",
-		"/D/Books/koans/.path_progress"
+		"/home/akash/Ruby/dragonxor.rb",
+		"/home/akash/Ruby/lecandy.rb",
+		"/home/akash/Ruby/muffins3.rb",
+		"/home/akash/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/akash/Ruby/powerof2.rb",
+		"/home/akash/Ruby/row_coulumn3.rb",
+		"/home/akash/Ruby/row_column2.rb",
+		"/home/akash/Ruby/row_column.rb",
+		"/home/akash/Ruby/lack_of_logic.rb",
+		"/home/akash/sample_app/lib/assets/.gitkeep",
+		"/home/akash/Desktop/sublime.desktop",
+		"//",
+		"/home/akash/sample_app/app/controllers/microposts_controller.rb",
+		"/home/akash/sample_app/app/controllers/sessions_controller.rb",
+		"/home/akash/sample_app/config/routes.rb",
+		"/home/akash/sample_app/app/views/layouts/_footer.html.erb",
+		"/home/akash/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/akash/sample_app/app/controllers/application_controller.rb",
+		"/home/akash/sample_app/app/helpers/application_helper.rb",
+		"/home/akash/sample_app/app/assets/stylesheets/custom.css.scss",
+		"/home/akash/.config/sublime-text-2/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/home/akash/sample_app/app/controllers/static_pages_controller.rb",
+		"/home/akash/sample_app/app/views/static_pages/home.html.erb",
+		"/home/akash/sample_app/app/views/layouts/_header.html.erb",
+		"/home/akash/sample_app/app/views/users/_user.html.erb",
+		"/home/akash/sample_app/app/models/user.rb",
+		"/home/akash/sample_app/app/models/micropost.rb",
+		"/home/akash/sample_app/app/models/relationship.rb",
+		"/home/akash/sample_app/app/views/shared/_stats.html.erb",
+		"/home/akash/sample_app/app/views/users/_follow_form.html.erb",
+		"/home/akash/sample_app/app/views/users/show.html.erb",
+		"/home/akash/sample_app/app/controllers/users_controller.rb",
+		"/home/akash/sample_app/app/views/users/show_follow.html.erb",
+		"/home/akash/sample_app/app/controllers/relationships_controller.rb",
+		"/home/akash/sample_app/app/views/users/_unfollow.html.erb",
+		"/home/akash/sample_app/app/views/relationships/create.js.erb",
+		"/home/akash/sample_app/app/views/relationships/destroy.js.erb",
+		"/home/akash/sample_app/app/views/users/_follow.html.erb",
+		"/home/akash/sample_app/app/controllers/relationshops_controller.rb",
+		"/home/akash/.config/sublime-text-2/Packages/Sass/Syntaxes/Sass.tmLanguage",
+		"/home/akash/sample_app/spec/models/user_spec.rb",
+		"/home/akash/sample_app/spec/models/relationship_spec.rb",
+		"/home/akash/sample_app/spec/factories.rb",
+		"/home/akash/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/akash/Ruby/recycling.rb",
+		"/home/akash/Ruby/climbing_stairs2.rb",
+		"/home/akash/Ruby/magic_board.rb",
+		"/home/akash/Ruby/energy_drink.rb",
+		"/home/akash/Ruby/lost.rb",
+		"/home/akash/Ruby/electricity_cutoff.rb",
+		"/home/akash/Ruby/prison_break.rb",
+		"/home/akash/Ruby/divisor.rb",
+		"/home/akash/sample_app/db/migrate/20130130094534_create_users.rb",
+		"/media/01CE04F5E0334C80/Sites/sample_app/db/migrate/20130211131003_create_relationships.rb",
+		"/home/akash/pgadmin.log",
+		"/home/akash/.config/sublime-text-2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/etc/postgresql/9.1/main/pg_hba.conf"
 	],
 	"find":
 	{
-		"height": 34.0
+		"height": 37.0
 	},
 	"find_in_files":
 	{
 		"height": 0.0,
 		"where_history":
 		[
-			""
 		]
 	},
 	"find_state":
@@ -586,31 +234,17 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"steps",
-			"2",
-			"		return ::Mem[steps-1] + find steps-2	\n",
-			"steps",
-			"x",
-			"mem",
-			"sca",
-			"CORRECT",
-			"sub",
-			"spell",
-			"color",
-			"footer",
-			"rack",
-			"thin",
-			"rack",
-			"posts",
-			"Post",
-			"def",
-			"'>\",",
-			"modified_in_a_block",
-			"koan",
-			"__",
-			"\",",
-			"[:",
-			"theme"
+			"1",
+			"a1",
+			"b0",
+			"tab",
+			"n",
+			"div",
+			"Sample",
+			"ctrl+alt",
+			"body",
+			" %",
+			"remember_="
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -618,8 +252,6 @@
 		"regex": false,
 		"replace_history":
 		[
-			"steps",
-			"Mem"
 		],
 		"reverse": true,
 		"show_context": true,
@@ -630,8 +262,35 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": ".gitignore",
+					"settings":
+					{
+						"buffer_size": 43,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								43,
+								43
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -641,7 +300,7 @@
 	},
 	"input":
 	{
-		"height": 31.0
+		"height": 35.0
 	},
 	"layout":
 	{
@@ -668,11 +327,11 @@
 	"menu_visible": true,
 	"output.exec":
 	{
-		"height": 120.0
+		"height": 114.0
 	},
 	"replace":
 	{
-		"height": 68.0
+		"height": 0.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -685,92 +344,8 @@
 				"config/routes.rb"
 			],
 			[
-				"sess",
-				"app/controllers/sessions_controller.rb"
-			],
-			[
-				"cus",
-				"app/assets/stylesheets/custom.css.scss"
-			],
-			[
-				"ge",
-				"Gemfile"
-			],
-			[
-				"con",
-				"app/controllers/users_controller.rb"
-			],
-			[
-				"r",
+				"ro",
 				"config/routes.rb"
-			],
-			[
-				"spec",
-				"spec/features/static_pages_spec.rb"
-			],
-			[
-				"sp",
-				"spec/spec_helper.rb"
-			],
-			[
-				"hom",
-				"app/views/static_pages/home.html.erb"
-			],
-			[
-				"spe",
-				"spec/spec_helper.rb"
-			],
-			[
-				"ab",
-				"app/views/static_pages/about.html.erb"
-			],
-			[
-				"ho",
-				"app/views/static_pages/home.html.erb"
-			],
-			[
-				"abou",
-				"app/views/static_pages/about.html.erb"
-			],
-			[
-				"help",
-				"app/views/static_pages/help.html.erb"
-			],
-			[
-				"sta",
-				"app/controllers/static_pages_controller.rb"
-			],
-			[
-				"home",
-				"app/views/static_pages/home.html.erb"
-			],
-			[
-				"",
-				"Rakefile"
-			],
-			[
-				"te",
-				"temp.rb"
-			],
-			[
-				"pr",
-				"about_proxy_object_project.rb"
-			],
-			[
-				"pro",
-				"about_proxy_object_project.rb"
-			],
-			[
-				"mes",
-				"about_message_passing.rb"
-			],
-			[
-				"pa",
-				".path_progress"
-			],
-			[
-				"demo",
-				"app/helpers/demo_helper.rb"
 			]
 		],
 		"width": 0.0
@@ -780,10 +355,6 @@
 		"height": 500.0,
 		"selected_items":
 		[
-			[
-				"",
-				"/D/Sites/sample_app/sample_app.sublime-project"
-			]
 		],
 		"width": 380.0
 	},
@@ -791,6 +362,6 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 200.0,
+	"side_bar_width": 179.0,
 	"status_bar_visible": true
 }

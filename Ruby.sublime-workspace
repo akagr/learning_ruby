@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"m",
+				"methods  (function)"
+			],
+			[
+				"up",
+				"upcase"
+			],
+			[
+				"ea",
+				"ea	each { |e| .. }"
+			],
+			[
 				"al",
 				"alph"
 			],
@@ -52,10 +64,6 @@
 				"scanf"
 			],
 			[
-				"ea",
-				"eai	each_index { |i| .. }"
-			],
-			[
 				"do",
 				"dob	Insert do |variable| … end"
 			],
@@ -68,10 +76,10 @@
 	"buffers":
 	[
 		{
-			"file": ".gitignore",
+			"file": "prime1.rb",
 			"settings":
 			{
-				"buffer_size": 43,
+				"buffer_size": 155,
 				"line_ending": "Unix"
 			}
 		}
@@ -79,9 +87,13 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 240.0,
+		"height": 375.0,
 		"selected_items":
 		[
+			[
+				"settin",
+				"Preferences: Settings - Default"
+			],
 			[
 				"open",
 				"File: Open In Browser - Testing Server"
@@ -160,10 +172,18 @@
 	},
 	"file_history":
 	[
+		"/home/akash/Ruby/meta_basics.rb",
+		"/home/akash/Ruby/approx.rb",
+		"/home/akash/Ruby/rdf.rb",
+		"/home/akash/Ruby/totr.rb",
+		"/home/akash/project/ns-allinone-3.16/ns-3.16/scratch/myfirst.cc",
+		"/home/akash/project/ns-allinone-3.16/ns-3.16/src/olsr/examples/simple-point-to-point-olsr.cc",
+		"/home/akash/Ruby/salary.rb",
+		"/home/akash/Ruby/.gitignore",
+		"/home/akash/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
 		"/home/akash/Ruby/dragonxor.rb",
 		"/home/akash/Ruby/lecandy.rb",
 		"/home/akash/Ruby/muffins3.rb",
-		"/home/akash/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
 		"/home/akash/Ruby/powerof2.rb",
 		"/home/akash/Ruby/row_coulumn3.rb",
 		"/home/akash/Ruby/row_column2.rb",
@@ -234,6 +254,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"name",
 			"1",
 			"a1",
 			"b0",
@@ -267,23 +288,23 @@
 			[
 				{
 					"buffer": 0,
-					"file": ".gitignore",
+					"file": "prime1.rb",
 					"settings":
 					{
-						"buffer_size": 43,
+						"buffer_size": 155,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								43,
-								43
+								21,
+								21
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -355,6 +376,10 @@
 		"height": 500.0,
 		"selected_items":
 		[
+			[
+				"",
+				"/home/akash/sample_app/sample_app.sublime-project"
+			]
 		],
 		"width": 380.0
 	},

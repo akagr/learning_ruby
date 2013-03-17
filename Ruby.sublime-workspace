@@ -76,10 +76,10 @@
 	"buffers":
 	[
 		{
-			"file": "prime1.rb",
+			"file": "rename.rb",
 			"settings":
 			{
-				"buffer_size": 155,
+				"buffer_size": 351,
 				"line_ending": "Unix"
 			}
 		}
@@ -90,6 +90,14 @@
 		"height": 375.0,
 		"selected_items":
 		[
+			[
+				"ter",
+				"Preferences: Terminal Key Bindings – Default"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
 			[
 				"settin",
 				"Preferences: Settings - Default"
@@ -104,10 +112,6 @@
 			],
 			[
 				"insta",
-				"Package Control: Install Package"
-			],
-			[
-				"ins",
 				"Package Control: Install Package"
 			],
 			[
@@ -172,7 +176,17 @@
 	},
 	"file_history":
 	[
+		"/home/akash/Ruby/meta2.rb",
+		"/home/akash/pointer.cpp",
+		"/home/akash/.config/sublime-text-2/Packages/Terminal/Default (Linux).sublime-keymap",
+		"/home/akash/Ruby/nita05.rb",
+		"/home/akash/Ruby/tnmalg04.rb",
+		"/home/akash/Ruby/nita02.rb",
+		"/home/akash/project/ns-allinone-3.16/ns-3.16/scratch/routing.cc",
+		"/home/akash/project/ns-allinone-3.16/ns-3.16/src/aodv/examples/aodv.cc",
 		"/home/akash/Ruby/meta_basics.rb",
+		"/home/akash/project/ns-allinone-3.16/ns-3.16/scratch/aodv.cc",
+		"/home/akash/Ruby/prime1.rb",
 		"/home/akash/Ruby/approx.rb",
 		"/home/akash/Ruby/rdf.rb",
 		"/home/akash/Ruby/totr.rb",
@@ -254,6 +268,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"a",
 			"name",
 			"1",
 			"a1",
@@ -288,18 +303,18 @@
 			[
 				{
 					"buffer": 0,
-					"file": "prime1.rb",
+					"file": "rename.rb",
 					"settings":
 					{
-						"buffer_size": 155,
+						"buffer_size": 351,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								21,
-								21
+								272,
+								272
 							]
 						],
 						"settings":
@@ -360,6 +375,10 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"meta",
+				"meta_basics.rb"
+			],
 			[
 				"rou",
 				"config/routes.rb"

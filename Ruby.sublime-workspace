@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"col",
+				"column"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"fil",
+				"filename"
+			],
+			[
 				"m",
 				"methods  (function)"
 			],
@@ -75,21 +87,17 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "rename.rb",
-			"settings":
-			{
-				"buffer_size": 351,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 375.0,
+		"height": 125.0,
 		"selected_items":
 		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
 			[
 				"ter",
 				"Preferences: Terminal Key Bindings – Default"
@@ -109,10 +117,6 @@
 			[
 				"col",
 				"Color picker"
-			],
-			[
-				"insta",
-				"Package Control: Install Package"
 			],
 			[
 				"sett",
@@ -176,6 +180,19 @@
 	},
 	"file_history":
 	[
+		"/home/akash/Ruby/Google/A-small.in",
+		"/home/akash/Ruby/Google/fairnsquare.rb",
+		"/home/akash/Ruby/Google/tictactoe.rb",
+		"/home/akash/Ruby/maxdiff.rb",
+		"/home/akash/Ruby/Google/hedgemony.rb",
+		"/home/akash/.cache/.fr-MWx1qq/A.d",
+		"/home/akash/.cache/.fr-NV5FFW/B.d",
+		"/home/akash/Ruby/Google/A.out",
+		"/home/akash/Ruby/hedgemony.rb",
+		"/home/akash/Ruby/tavisual.rb",
+		"/home/akash/Ruby/electricity_cutoff.rb",
+		"/home/akash/Ruby/tpalin.rb",
+		"/home/akash/Ruby/rename.rb",
 		"/home/akash/Ruby/meta2.rb",
 		"/home/akash/pointer.cpp",
 		"/home/akash/.config/sublime-text-2/Packages/Terminal/Default (Linux).sublime-keymap",
@@ -243,7 +260,6 @@
 		"/home/akash/Ruby/magic_board.rb",
 		"/home/akash/Ruby/energy_drink.rb",
 		"/home/akash/Ruby/lost.rb",
-		"/home/akash/Ruby/electricity_cutoff.rb",
 		"/home/akash/Ruby/prison_break.rb",
 		"/home/akash/Ruby/divisor.rb",
 		"/home/akash/sample_app/db/migrate/20130130094534_create_users.rb",
@@ -268,6 +284,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"0",
+			"DATA",
 			"a",
 			"name",
 			"1",
@@ -298,35 +316,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "rename.rb",
-					"settings":
-					{
-						"buffer_size": 351,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								272,
-								272
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Ruby/Ruby.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -397,7 +388,7 @@
 		[
 			[
 				"",
-				"/home/akash/sample_app/sample_app.sublime-project"
+				"/home/akash/jekyll.sublime-project"
 			]
 		],
 		"width": 380.0

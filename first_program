@@ -1,0 +1,17 @@
+#! /usr/bin/ruby
+
+require 'optparse'
+
+options ={}
+
+opts = OptionParser.new
+opts.banner = "Usage: first_program -d Dirname"
+opts.on "-d", "--dir DIR", "Sample Directory" do |dir|
+	options[:directory]=dir
+end
+
+#print `clear`
+opts.parse!(ARGV)
+puts ARGV.inspect
+puts options.inspect
+puts opts
